@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sunset/static/css/main.3ce5e48c.css",
+    "main.js": "/sunset/static/js/main.836db6d3.js",
+    "static/js/787.111645ee.chunk.js": "/sunset/static/js/787.111645ee.chunk.js",
+    "index.html": "/sunset/index.html",
+    "main.3ce5e48c.css.map": "/sunset/static/css/main.3ce5e48c.css.map",
+    "main.836db6d3.js.map": "/sunset/static/js/main.836db6d3.js.map",
+    "787.111645ee.chunk.js.map": "/sunset/static/js/787.111645ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce5e48c.css",
+    "static/js/main.836db6d3.js"
+  ]
+}
